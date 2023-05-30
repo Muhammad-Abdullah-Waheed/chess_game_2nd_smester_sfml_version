@@ -1,0 +1,135 @@
+﻿  Bishop.cpp
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.h(58,3): warning C4150: deletion of pointer to incomplete type 'Peice'; no destructor called
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.h(6,7): message : see declaration of 'Peice'
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Header.h(29,55): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Header.h(30,55): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Peice.h(25,11): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Peice.h(29,11): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Bishop.cpp(15,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  Board.cpp
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.h(58,3): warning C4150: deletion of pointer to incomplete type 'Peice'; no destructor called
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.h(6,7): message : see declaration of 'Peice'
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Header.h(29,55): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Header.h(30,55): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Peice.h(25,11): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Peice.h(29,11): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(47,26): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(48,26): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(168,20): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(169,18): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(296,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(296,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(327,15): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(327,29): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(327,44): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(327,64): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(333,16): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(333,31): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(333,46): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(333,66): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(345,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(345,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(351,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(351,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(358,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(358,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(364,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(364,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(370,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(370,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(376,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(376,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(385,20): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.cpp(386,20): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  King.cpp
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.h(58,3): warning C4150: deletion of pointer to incomplete type 'Peice'; no destructor called
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Board.h(6,7): message : see declaration of 'Peice'
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Header.h(29,55): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Header.h(30,55): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Peice.h(25,11): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Peice.h(29,11): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\King.cpp(22,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\King.cpp(108): warning C4715: 'King::bishopleg': not all control paths return a value
+D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\Bishop.cpp(77): warning C4715: 'Bishop::Peice_legal': not all control paths return a value
+  bscs22127_Chess_Project_2.vcxproj -> D:\python course\smester 2\vs community\projects 2nd smester\Chess_project_3\bscs22127_Chess_Project_2_sfml\x64\Debug\bscs22127_Chess_Project_2.exe
